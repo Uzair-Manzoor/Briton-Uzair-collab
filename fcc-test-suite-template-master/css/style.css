@@ -1,0 +1,10 @@
+header {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+code {
+    background-color: khaki;
+    display: block;
+    padding: 20px;
+}
